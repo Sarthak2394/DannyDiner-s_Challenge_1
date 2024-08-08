@@ -24,4 +24,3 @@ Danny has shared three key datasets:
 <b>Menu</b>: Details of the menu items, including product_id, product_name, and price.<br/>
 <b>Members</b>: Information on customers who joined the loyalty program, including customer_id and join_date.<br/>
 
-
